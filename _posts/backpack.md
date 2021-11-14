@@ -1,8 +1,8 @@
 ---
 layout: post
-title: BackPACK: Packing more into Backprop
+title: BackPACK Packing more into Backprop
 tags: [Optimization, Test]
-authors: Dangel, Felix, University of Tuebingen
+authors: Dangel, Felix, University of Tuebingen; Kunstner, Frederik, University of Tuebingen; Hennig, Philipp, University of Tuebingen
 ---
 
 # Abstract
