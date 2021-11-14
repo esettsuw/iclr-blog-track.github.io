@@ -1,6 +1,6 @@
 ---
 layout: post
-title: BackPACK:: Packing more into Backprop
+title: BackPACK (Packing more into Backprop)
 tags: [Optimization, Test]
 authors: Dangel, Felix, University of Tuebingen; Kunstner, Frederik, University of Tuebingen; Hennig, Philipp, University of Tuebingen
 ---
@@ -22,3 +22,9 @@ the backpropagation algorithm to extract additional information from first- and
 second-order derivatives. Its capabilities are illustrated by benchmark reports for
 computing additional quantities on deep neural networks, and an example application
 by testing several recent curvature approximations for optimization.
+
+$ \sum_{i=0}^j \frac{1}{2^n} \times i $
+
+$$\begin{equation} a \times b \times c = 0 \ j=1 \ k=2 \ \end{equation}$$
+
+$$\begin{align} i2 \times b \times c =0 \ j=1 \ k=2 \ \end{align}$$
