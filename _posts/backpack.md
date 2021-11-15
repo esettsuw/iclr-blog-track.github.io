@@ -1,7 +1,7 @@
 ---
 layout: post
 title: BackPACK (Packing more into Backprop)
-tags: [Optimization, Test]
+tags: [Optimization]
 authors: Dangel, Felix, University of Tuebingen; Kunstner, Frederik, University of Tuebingen; Hennig, Philipp, University of Tuebingen
 ---
 
@@ -23,8 +23,6 @@ second-order derivatives. Its capabilities are illustrated by benchmark reports 
 computing additional quantities on deep neural networks, and an example application
 by testing several recent curvature approximations for optimization.
 
-$ \sum_{i=0}^j \frac{1}{2^n} \times i $
+# Introduction
 
-$$\begin{equation} a \times b \times c = 0 \ j=1 \ k=2 \ \end{equation}$$
-
-$$\begin{align} i2 \times b \times c =0 \ j=1 \ k=2 \ \end{align}$$
+BACKPACK is an efficient framework ...
